@@ -9,6 +9,8 @@ SECRET_KEY=key # a specific secret key<br/>
 API_ID=id # the id of the app owner<br/>
 API_HASH=hash # the hash of the app owner<br/>
 OWNER_CREDS=+380xxxxxxxxx # the number of the account owner<br/>
+
+ALLOWED_HOSTS=127.0.0.1,localhost # hosts who can use this resource<br/>
 </b>
 </code>
 # Run
